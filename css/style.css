@@ -456,7 +456,7 @@ header{
     }
     /* Header */
     header {
-        padding-top: 3rem; /* Adjust header padding */
+        padding-top: 12rem; /* Adjust header padding */
         display: block; /* Stack content vertically */
         text-align: center;
     }
